@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2715062, 2013-12-28T21:37:09-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Snell Roundhand Script by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/snell-roundhand-script/snell-roundhand-script/
+ * Copyright: Copyright &#x00A9; 1990, 1995, 2001, 2002 Adobe Systems Incorporated.  All Rights Reserved. &#x00A9; 1981, 2001, 2002 Heidelberger Druckmaschinen AG. All rights reserved.
+ * Licensed pageviews: 250,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2715062
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/296db6");
+
+  
+@font-face {font-family: 'SnellRoundhandLTStd-Scr';src: url('webfonts/296DB6_0_0.eot');src: url('webfonts/296DB6_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/296DB6_0_0.woff') format('woff'),url('webfonts/296DB6_0_0.ttf') format('truetype');}
+ 
